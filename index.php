@@ -57,6 +57,11 @@
     <p style="font-family: roboto; font-size: 15px">Har været okay til spillet, men har altid holdt pause pga. uddannelser eller arbejder, så har aldrig haft chancen for at fokusere kun på spillet, hvilket måske kommer i fremtiden, hvem ved?</p>
     <p style="font-family: roboto; font-size: 15px">Men det at man kan gå fra at have en hobby, til at kunne få en fremtid ved at spille ens hobby virker virkelig surrealistisk for mange, <br> men det er alle unges drøm, selvom mange ved at det kun er få den drøm går i opfyldelse for.</p>
     <img src="images/Interesse.png">
+
+    <br><br><br>
+    <h2 id="Redigering" style="font-family: Counter-Strike; font-size: 30px">REDIGERING</h2>
+    <p style="font-family: roboto; font-size: 15px">Har prøvet at redigere et billede, hvor jeg har lavet en smart slider til hvor man kan se før og efterbilledet!</p>
+
 </div>
 
 <div class="compare">

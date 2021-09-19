@@ -47,11 +47,11 @@ img {
 	overflow: hidden;
 }
 
-.compare__image{
+.compare__image {
 	display: block;
 }
 
-.compare__range{
+.compare__range {
 	margin: 0;
 	position: absolute;
 	top: 0;
@@ -62,7 +62,7 @@ img {
 	-webkit-appearance: none;
 }
 
-.compare__range::-webkit-slider-thumb{
+.compare__range::-webkit-slider-thumb {
 	cursor: col-resize;
 	-webkit-appearance: none;
 	height: 1000px;

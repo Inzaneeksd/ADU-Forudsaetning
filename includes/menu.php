@@ -10,5 +10,6 @@
         <a href="#Turneringer" class="mx-5 link-dark">TURNERINGER/LANS</a>
         <a href="#Majors" class="mx-5 link-dark">MAJORS</a>
         <a href="#Interesse" class="mx-5 link-dark">INTERESSE</a>
+        <a href="#Redigering" class="mx-5 link-dark">REDIGERING</a>
     </div>
 </div>
