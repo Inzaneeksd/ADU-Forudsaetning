@@ -31,3 +31,42 @@ img {
 	max-width: 100%;
 	height: auto;
 }
+
+.compare {
+	display: inline-block;
+	position: relative;
+	overflow: hidden;
+}
+
+.compare__image-wrapper {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	width: 50%;
+	overflow: hidden;
+}
+
+.compare__image{
+	display: block;
+}
+
+.compare__range{
+	margin: 0;
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 100%;
+	width: 100%;
+	background: transparent;
+	-webkit-appearance: none;
+}
+
+.compare__range::-webkit-slider-thumb{
+	cursor: col-resize;
+	-webkit-appearance: none;
+	height: 1000px;
+	width: 5px;
+	background: #FFF;
+	box-shadow: 10px 10px 10px #0d0d0d;
+}

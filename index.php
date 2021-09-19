@@ -59,5 +59,23 @@
     <img src="images/Interesse.png">
 </div>
 
+<div class="compare">
+    <div class="compare__image-wrapper js-compare-image-wrapper">
+        <img class="compare__image" src="images/Howl_Before.png"/>
+    </div>
+    <img class="compare__image" src="images/Howl_After.png"/>
+    <input class="compare__range js-compare-range" type="range" min="0" max="100"/>
+</div>
+
+<script>
+
+    const compareWrapper = document.querySelector('.js-compare-image-wrapper');
+    const range = document.querySelector('.js-compare-range');
+
+    range.addEventListener('input', (e) => {
+        compareWrapper.style.width = e.currentTarget.value + '%';
+    });
+
+</script>
 </body>
 </html>
